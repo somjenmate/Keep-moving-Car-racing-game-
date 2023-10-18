@@ -1,0 +1,60 @@
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.AssemblyReference.cache
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.g.cs
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\App.g.cs
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.cache
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.lref
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe.config
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.pdb
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.baml
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.g.resources
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.GenerateResource.cache
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.CoreCompileInputs.cache
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.exe
+C:\Users\somje\Desktop\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.pdb
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe.config
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.pdb
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.AssemblyReference.cache
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.g.cs
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\App.g.cs
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.cache
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.lref
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.baml
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.g.resources
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.GenerateResource.cache
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.CoreCompileInputs.cache
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.exe
+D:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.pdb
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe.config
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.pdb
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.AssemblyReference.cache
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.g.cs
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\App.g.cs
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.cache
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.lref
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.baml
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.g.resources
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.GenerateResource.cache
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.CoreCompileInputs.cache
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.exe
+E:\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.pdb
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe.config
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.exe
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\bin\Debug\Car_Racing_Game.pdb
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.AssemblyReference.cache
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.g.cs
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\App.g.cs
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.cache
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game_MarkupCompile.lref
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\MainWindow.baml
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.g.resources
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.GenerateResource.cache
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.csproj.CoreCompileInputs.cache
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.exe
+E:\2022-23\Jatekfejl - szerda4\Projekt - c#\Car_Racing_Game\Car_Racing_Game\obj\Debug\Car_Racing_Game.pdb
